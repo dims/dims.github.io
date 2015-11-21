@@ -38,3 +38,4 @@ pip install -q -U \
     -e git+https://github.com/openstack/oslotest.git#egg=oslotest
 pip install -q -U \
     -e git+https://github.com/openstack/oslo.db.git#egg=oslo.db
+pip freeze | grep oslo
