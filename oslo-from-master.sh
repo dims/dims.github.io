@@ -11,7 +11,7 @@ pip install -q -U \
 pip install -q -U \
     -e git+https://github.com/openstack/oslo.log.git#egg=oslo.log
 pip install -q -U \
-    -e git+https://github.com/openstack/oslo.messaging.git#egg=oslo.messaging
+    -e git+https://github.com/dims/oslo.messaging.git#egg=oslo.messaging
 pip install -q -U \
     -e git+https://github.com/openstack/oslo.middleware.git#egg=oslo.middleware
 pip install -q -U \
