@@ -25,7 +25,7 @@ pip install -q -U \
 pip install -q -U \
     -e git+https://github.com/openstack/oslo.serialization.git#egg=oslo.serialization
 pip install -q -U \
-    -e git+https://github.com/openstack/oslo.service.git#egg=oslo.service
+    -e git+https://github.com/dims/oslo.service.git#egg=oslo.service
 pip install -q -U \
     -e git+https://github.com/openstack/oslo.utils.git#egg=oslo.utils
 pip install -q -U \
